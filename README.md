@@ -9,13 +9,5 @@ Code for Adversarial U-shaped Variational Autoencoder Network (AUVAE-Net) ——
 * numpy 1.23.5
 * tensorflow-gpu 2.10.0
 # Reference
-[1] Jin Q, Ma Y, Fan F, et al. Adversarial Autoencoder Network for Hyperspectral Unmixing[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021.<br>
-[2] Hyperspectral Unmixing Models
-```ios
-@article{jin2021adversarial,
-  title={Adversarial Autoencoder Network for Hyperspectral Unmixing},
-  author={Jin, Qiwen and Ma, Yong and Fan, Fan and Huang, Jun and Mei, Xiaoguang and Ma, Jiayi},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2021},
-  publisher={IEEE}
-}
+[1] [Hyperspectral Unmixing Models](https://github.com/UPCGIT/Hyperspectral-Unmixing-Models)<br>
+[2] [Adversarial Autoencoder Network for Hyperspectral Unmixing](https://github.com/qiwenjjin/AAENet)
