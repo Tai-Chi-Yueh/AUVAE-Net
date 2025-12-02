@@ -15,8 +15,12 @@ Experimental results show that AUVAE-Net, by integrating U-Net's multi-scale fea
 <b>Keywords</b>: remote sensing; hyperspectral unmixing; deep learning; U-Net; VAE
 
 # Experimental Results
-
-
+![Endmember_Extraction_Results.png]([https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_1.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_Extraction_Results.png))
+![Endmember_SAD_&_mSAD.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_SAD_%26_mSAD.png)
+![Abundance_Estimation_Results_1.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_1.png)
+![Abundance_Estimation_Results_2.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_2.png)
+![Abundance_RMSE_&_mRMSE.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_RMSE_%26_mRMSE.png)
+![Reconstruction_Error.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Reconstruction_Error.png)
 
 # Environment
 * Windows
