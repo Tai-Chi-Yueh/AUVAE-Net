@@ -15,18 +15,18 @@ Experimental results show that AUVAE-Net, by integrating U-Net's multi-scale fea
 <b>Keywords</b>: remote sensing; hyperspectral unmixing; deep learning; U-Net; VAE
 
 # Experimental Results
-![Normalized_GT_Endmember_Spectra_of_DC_Dataset.jpg](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Normalized_GT_Endmember_Spectra_of_DC_Dataset.jpg)<br>
+![Normalized_GT_Endmember_Spectra_of_DC_Dataset.jpg](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Normalized_GT_Endmember_Spectra_of_DC_Dataset.jpg)
 <div class="text-center">Normalized_GT_Endmember_Spectra_of_DC_Dataset</div>
-![Endmember_Extraction_Results.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_Extraction_Results.png)<br>
+![Endmember_Extraction_Results.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_Extraction_Results.png)
 <div class="text-center">Endmember_Extraction_Results</div>
-![Endmember_SAD_&_mSAD.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_SAD_%26_mSAD.png)<br>
+![Endmember_SAD_&_mSAD.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_SAD_%26_mSAD.png)
 <div class="text-center">Endmember_SAD_&_mSAD</div>
-![Abundance_Estimation_Results_1.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_1.png)<br>
-![Abundance_Estimation_Results_2.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_2.png)<br>
+![Abundance_Estimation_Results_1.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_1.png)
+![Abundance_Estimation_Results_2.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_2.png)
 <div class="text-center">Abundance_Estimation_Results</div>
-![Abundance_RMSE_&_mRMSE.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_RMSE_%26_mRMSE.png)<br>
+![Abundance_RMSE_&_mRMSE.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_RMSE_%26_mRMSE.png)
 <div class="text-center">Abundance_RMSE_&_mRMSE</div>
-![Reconstruction_Error.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Reconstruction_Error.png)<br>
+![Reconstruction_Error.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Reconstruction_Error.png)
 <div class="text-center">Reconstruction_Error</div>
 
 # Environment
