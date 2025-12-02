@@ -20,19 +20,19 @@ Experimental results show that AUVAE-Net, by integrating U-Net's multi-scale fea
 <div align="center">
   <img src="https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Normalized_GT_Endmember_Spectra_of_DC_Dataset.jpg" alt="Normalized_GT_Endmember_Spectra_of_DC_Dataset">
   <br>
-  <em>Normalized_GT_Endmember_Spectra_of_DC_Dataset</em>
+  <b>Normalized_GT_Endmember_Spectra_of_DC_Dataset</b>
 </div>
 
 <div align="center">
   <img src="https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_Extraction_Results.png" alt="Endmember_Extraction_Results">
   <br>
-  <em>Endmember_Extraction_Results</em>
+  <b>Endmember_Extraction_Results</b>
 </div>
 
 <div align="center">
   <img src="https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_SAD_%26_mSAD.png" alt="Endmember_SAD_&_mSAD">
   <br>
-  <em>Endmember_SAD_&_mSAD</em>
+  <b>Endmember_SAD_&_mSAD</b>
 </div>
 
 <div align="center">
@@ -40,19 +40,19 @@ Experimental results show that AUVAE-Net, by integrating U-Net's multi-scale fea
   <br>
   <img src="https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_2.png" alt="Abundance_Estimation_Results_2">
   <br>
-  <em>Abundance_Estimation_Results</em>
+  <b>Abundance_Estimation_Results</b>
 </div>
 
 <div align="center">
   <img src="https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_RMSE_%26_mRMSE.png" alt="Abundance_RMSE_&_mRMSE">
   <br>
-  <em>Abundance_RMSE_&_mRMSE</em>
+  <b>Abundance_RMSE_&_mRMSE</b>
 </div>
 
 <div align="center">
   <img src="https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Reconstruction_Error.png" alt="Reconstruction_Error">
   <br>
-  <em>Reconstruction_Error</em>
+  <b>Reconstruction_Error</b>
 </div>
 
 
