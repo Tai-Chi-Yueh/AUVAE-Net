@@ -2,6 +2,7 @@
 Code for Graduation Thesis: Adversarial U-shaped Variational Autoencoder Network (AUVAE-Net) —— A Deep Learning Method for Hyperspectral Image Unmixing in Remote Sensing<br>
 ![AUVAE-NET.jpg](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/AUVAE-NET.jpg)
 
+
 # Abstract
 <p>
 Hyperspectral unmixing is an important technique in RS image interpretation. Its goal is to decompose the pixel spectra into a set of extracted endmembers and their associated abundance maps, so as to achieve precise identification and classification of ground objects. Although traditional unmixing methods have advantages in physical interpretability, they face significant limitations in handling complex nonlinear mixing, noise interference, and large-scale data. While in recent years, deep learning has demonstrated remarkable advantages in this area due to its powerful feature extraction and modeling capabilities.
@@ -14,14 +15,46 @@ Experimental results show that AUVAE-Net, by integrating U-Net's multi-scale fea
 </p>
 <b>Keywords</b>: remote sensing; hyperspectral unmixing; deep learning; U-Net; VAE
 
+
 # Experimental Results
-![Normalized_GT_Endmember_Spectra_of_DC_Dataset.jpg](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Normalized_GT_Endmember_Spectra_of_DC_Dataset.jpg) <center>Normalized_GT_Endmember_Spectra_of_DC_Dataset</center>
-![Endmember_Extraction_Results.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_Extraction_Results.png) <center>Endmember_Extraction_Results</center>
-![Endmember_SAD_&_mSAD.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_SAD_%26_mSAD.png) <center>Endmember_SAD_&_mSAD</center>
-![Abundance_Estimation_Results_1.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_1.png)
-![Abundance_Estimation_Results_2.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_2.png) <center>Abundance_Estimation_Results</center>
-![Abundance_RMSE_&_mRMSE.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_RMSE_%26_mRMSE.png) <center>Abundance_RMSE_&_mRMSE</center>
-![Reconstruction_Error.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Reconstruction_Error.png) <center>Reconstruction_Error</center>
+<div align="center">
+  <img src="https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Normalized_GT_Endmember_Spectra_of_DC_Dataset.jpg" alt="Normalized_GT_Endmember_Spectra_of_DC_Dataset">
+  <br>
+  <em>Normalized_GT_Endmember_Spectra_of_DC_Dataset</em>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_Extraction_Results.png" alt="Endmember_Extraction_Results">
+  <br>
+  <em>Endmember_Extraction_Results</em>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_SAD_%26_mSAD.png" alt="Endmember_SAD_&_mSAD">
+  <br>
+  <em>Endmember_SAD_&_mSAD</em>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_1.png" alt="Abundance_Estimation_Results_1">
+  <br>
+  <img src="https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_2.png" alt="Abundance_Estimation_Results_2">
+  <br>
+  <em>Abundance_Estimation_Results</em>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_RMSE_%26_mRMSE.png" alt="Abundance_RMSE_&_mRMSE">
+  <br>
+  <em>Abundance_RMSE_&_mRMSE</em>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Reconstruction_Error.png" alt="Reconstruction_Error">
+  <br>
+  <em>Reconstruction_Error</em>
+</div>
+
 
 # Environment
 * Windows
@@ -31,6 +64,7 @@ Experimental results show that AUVAE-Net, by integrating U-Net's multi-scale fea
 * keras 2.10.0
 * numpy 1.23.5
 * tensorflow-gpu 2.10.0
+
 
 # Reference
 [1] [Adversarial Autoencoder Network for Hyperspectral Unmixing](https://github.com/qiwenjjin/AAENet)<br>
