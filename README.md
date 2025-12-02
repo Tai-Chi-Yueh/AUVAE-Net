@@ -15,19 +15,13 @@ Experimental results show that AUVAE-Net, by integrating U-Net's multi-scale fea
 <b>Keywords</b>: remote sensing; hyperspectral unmixing; deep learning; U-Net; VAE
 
 # Experimental Results
-![Normalized_GT_Endmember_Spectra_of_DC_Dataset.jpg](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Normalized_GT_Endmember_Spectra_of_DC_Dataset.jpg)
-<center>Normalized_GT_Endmember_Spectra_of_DC_Dataset</center>
-![Endmember_Extraction_Results.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_Extraction_Results.png)
-<center>Endmember_Extraction_Results</center>
-![Endmember_SAD_&_mSAD.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_SAD_%26_mSAD.png)
-<center>Endmember_SAD_&_mSAD</center>
+![Normalized_GT_Endmember_Spectra_of_DC_Dataset.jpg](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Normalized_GT_Endmember_Spectra_of_DC_Dataset.jpg) <center>Normalized_GT_Endmember_Spectra_of_DC_Dataset</center>
+![Endmember_Extraction_Results.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_Extraction_Results.png) <center>Endmember_Extraction_Results</center>
+![Endmember_SAD_&_mSAD.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Endmember_SAD_%26_mSAD.png) <center>Endmember_SAD_&_mSAD</center>
 ![Abundance_Estimation_Results_1.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_1.png)
-![Abundance_Estimation_Results_2.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_2.png)
-<center>Abundance_Estimation_Results</center>
-![Abundance_RMSE_&_mRMSE.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_RMSE_%26_mRMSE.png)
-<center>Abundance_RMSE_&_mRMSE</center>
-![Reconstruction_Error.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Reconstruction_Error.png)
-<center>Reconstruction_Error</center>
+![Abundance_Estimation_Results_2.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_Estimation_Results_2.png) <center>Abundance_Estimation_Results</center>
+![Abundance_RMSE_&_mRMSE.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Abundance_RMSE_%26_mRMSE.png) <center>Abundance_RMSE_&_mRMSE</center>
+![Reconstruction_Error.png](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/Experimental-Results/Reconstruction_Error.png) <center>Reconstruction_Error</center>
 
 # Environment
 * Windows
