@@ -1,4 +1,4 @@
-# AUVAE-Net 哎呦喂，您猜怎么着？就是一个地道！
+# AUVAE-Net 
 Code for Graduation Thesis: Adversarial U-shaped Variational Autoencoder Network (AUVAE-Net) —— A Deep Learning Method for Hyperspectral Image Unmixing in Remote Sensing<br>
 ![AUVAE-NET.jpg](https://github.com/Tai-Chi-Yueh/AUVAE-Net/blob/main/AUVAE-NET.jpg)
 
