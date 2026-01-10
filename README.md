@@ -58,12 +58,11 @@ Experimental results show that AUVAE-Net, by integrating U-Net's multi-scale fea
 
 # Environment
 * Windows
-* python 3.10.16
+* python 3.10.9 (Anaconda3-2023.03-0-Windows-x86_64)
 * pytorch 1.12.1
 * cudatoolkit 11.2.2 + cudnn 8.1.0.77
-* keras 2.10.0
-* numpy 1.23.5
-* tensorflow-gpu 2.10.0
+* tensorflow-gpu 2.10.0 + keras 2.10.0
+* graphviz
 
 
 # Reference
